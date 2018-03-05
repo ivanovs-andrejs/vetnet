@@ -1,5 +1,5 @@
 {
-  "topUp.completed.fail.link": "",
-  "error.404.title": "That's an error.",
-  "country_name_VA": "Vatican City"
+  "topUp.completed.fail.link": "Something went wrong",
+  "error.404.title": "That's an error. Edited in github",
+  "country_name_VA": "Vatican City. Edited in github"
 }
